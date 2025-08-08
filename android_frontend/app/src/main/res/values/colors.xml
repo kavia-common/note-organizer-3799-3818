@@ -1,0 +1,7 @@
+<resources>
+    <color name="primary">#1976D2</color>
+    <color name="accent">#FFD600</color>
+    <color name="secondary">#FFFFFF</color>
+    <color name="cardview_shadow_start_color">#33000000</color>
+    <color name="cardview_shadow_end_color">#14000000</color>
+</resources>
